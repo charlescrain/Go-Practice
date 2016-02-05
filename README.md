@@ -1,8 +1,7 @@
 ## Purpose
 
-This is a repo of various algorithms implemented in Go.
+This branch has Divide and Conquer Algorithms.
 
-## Branches
-
-Each Branch has the various programs
+## Try them out
+Feel free to run any of them. Note that they require Go to be installed on your machine.
 
